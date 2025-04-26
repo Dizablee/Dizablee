@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/BmpAEOxRi9sAAAAd/wellcome-to-the-club-buddy-gachi.gif" width="800"/>
+  <img src="https://tenor.com/ru/view/papich-arthas-маньякич-папич-gif-9114985726670453186" width="800"/>
 </div>
