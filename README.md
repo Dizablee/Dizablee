@@ -1,1 +1,3 @@
-<div class="tenor-gif-embed" data-postid="9114985726670453186" data-share-method="host" data-aspect-ratio="1.7451" data-width="100%"><a href="https://tenor.com/view/papich-arthas-%D0%BC%D0%B0%D0%BD%D1%8C%D1%8F%D0%BA%D0%B8%D1%87-%D0%BF%D0%B0%D0%BF%D0%B8%D1%87-gif-9114985726670453186">Papich Arthas GIF</a>from <a href="https://tenor.com/search/papich-gifs">Papich GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://media1.tenor.com/m/BmpAEOxRi9sAAAAd/wellcome-to-the-club-buddy-gachi.gif" width="800"/>
+</div>
